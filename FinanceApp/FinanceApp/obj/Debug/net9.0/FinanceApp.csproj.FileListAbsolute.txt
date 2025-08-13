@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.exe
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.deps.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.runtimeconfig.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\refint\FinanceApp.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\FinanceApp\FinanceApp\obj\Debug\net9.0\ref\FinanceApp.dll
