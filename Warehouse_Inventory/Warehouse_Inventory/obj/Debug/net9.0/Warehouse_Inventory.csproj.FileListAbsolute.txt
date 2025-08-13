@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\bin\Debug\net9.0\Warehouse_Inventory.exe
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\bin\Debug\net9.0\Warehouse_Inventory.deps.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\bin\Debug\net9.0\Warehouse_Inventory.runtimeconfig.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\bin\Debug\net9.0\Warehouse_Inventory.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\bin\Debug\net9.0\Warehouse_Inventory.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\Warehouse_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\Warehouse_Inventory.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\Warehouse_Inventory.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\Warehouse_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\Warehouse_Inventory.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\refint\Warehouse_Inventory.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\Warehouse_Inventory.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\Warehouse_Inventory.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Warehouse_Inventory\Warehouse_Inventory\obj\Debug\net9.0\ref\Warehouse_Inventory.dll
