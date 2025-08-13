@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DCIT318_FinanceApp
+namespace FinanceApp
 {
     public record Transaction(
         int Id,
@@ -128,3 +128,4 @@ namespace DCIT318_FinanceApp
         }
     }
 }
+
