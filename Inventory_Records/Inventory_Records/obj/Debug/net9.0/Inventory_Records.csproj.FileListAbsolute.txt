@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\bin\Debug\net9.0\Inventory_Records.exe
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\bin\Debug\net9.0\Inventory_Records.deps.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\bin\Debug\net9.0\Inventory_Records.runtimeconfig.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\bin\Debug\net9.0\Inventory_Records.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\bin\Debug\net9.0\Inventory_Records.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\Inventory_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\Inventory_Records.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\Inventory_Records.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\Inventory_Records.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\Inventory_Records.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\refint\Inventory_Records.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\Inventory_Records.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\Inventory_Records.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Inventory_Records\Inventory_Records\obj\Debug\net9.0\ref\Inventory_Records.dll
