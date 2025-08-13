@@ -1,0 +1,16 @@
+===== Student Summary Report =====
+Kwame Mensah (ID: 101): Score = 85, Grade = A
+Ama Serwaa (ID: 102): Score = 92, Grade = A
+Kojo Owusu (ID: 103): Score = 76, Grade = B
+Abena Asare (ID: 104): Score = 88, Grade = A
+Yaw Boateng (ID: 105): Score = 79, Grade = B
+Afia Konadu (ID: 106): Score = 94, Grade = A
+Kofi Adjei (ID: 107): Score = 81, Grade = A
+Esi Amoako (ID: 108): Score = 73, Grade = B
+Nana Kwame Ofori (ID: 109): Score = 90, Grade = A
+Akua Nyarko (ID: 110): Score = 84, Grade = A
+Michael Agyemang (ID: 111): Score = 77, Grade = B
+Adwoa Appiah (ID: 112): Score = 95, Grade = A
+Daniel Osei (ID: 113): Score = 69, Grade = C
+Cynthia Owusu (ID: 114): Score = 87, Grade = A
+Francis Tetteh (ID: 115): Score = 80, Grade = A

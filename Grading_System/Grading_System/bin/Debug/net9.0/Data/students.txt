@@ -1,0 +1,15 @@
+101, Kwame Mensah, 85
+102, Ama Serwaa, 92
+103, Kojo Owusu, 76
+104, Abena Asare, 88
+105, Yaw Boateng, 79
+106, Afia Konadu, 94
+107, Kofi Adjei, 81
+108, Esi Amoako, 73
+109, Nana Kwame Ofori, 90
+110, Akua Nyarko, 84
+111, Michael Agyemang, 77
+112, Adwoa Appiah, 95
+113, Daniel Osei, 69
+114, Cynthia Owusu, 87
+115, Francis Tetteh, 80

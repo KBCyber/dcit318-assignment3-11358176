@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\bin\Debug\net9.0\Grading_System.exe
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\bin\Debug\net9.0\Grading_System.deps.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\bin\Debug\net9.0\Grading_System.runtimeconfig.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\bin\Debug\net9.0\Grading_System.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\bin\Debug\net9.0\Grading_System.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\Grading_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\Grading_System.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\Grading_System.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\Grading_System.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\Grading_System.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\refint\Grading_System.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\Grading_System.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\Grading_System.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment3-11358176\Grading_System\Grading_System\obj\Debug\net9.0\ref\Grading_System.dll
